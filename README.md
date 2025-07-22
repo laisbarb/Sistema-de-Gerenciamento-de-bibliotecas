@@ -31,4 +31,3 @@ O núcleo deste projeto é a demonstração dos seguintes conceitos de Ciência 
 
 Feito por **Lais Barbosa**.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:[//www.linkedin.co)](https://www.linkedin.com/in/SEU_PERFIL_LINKEDIN/](https://www.linkedin.com/in/lais-barbosadeveloper/))
