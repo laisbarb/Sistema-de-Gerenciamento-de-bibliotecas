@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Biblioteca em C++
+# Sistema de Gerenciamento de Biblioteca em C
 
 ![Linguagem C](https://img.shields.io/badge/Language-C-blue.svg) ![Compilador](https://img.shields.io/badge/Compiler-GCC-orange.svg) ![Licença](https://img.shields.io/badge/License-MIT-yellow.svg)
 
