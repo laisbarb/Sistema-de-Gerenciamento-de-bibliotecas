@@ -8,6 +8,8 @@ Um sistema de gerenciamento de biblioteca desenvolvido em C++, operado via linha
 
 Este projeto foi realizado como uma tarefa na faculdade e contou com o apoio do professor responsável, recebendo uma nota final Máxima.
 Este é um programa de console que simula as operações básicas de uma biblioteca, permitindo o cadastro de usuários e livros, o gerenciamento de uma fila de espera para aluguéis e a visualização do histórico de empréstimos. O foco principal não é a interface, mas sim a lógica de programação e a correta implementação e manipulação de diferentes estruturas de dados.
+Para testar a funcionalidade do código use o compilador online OnlineGDB
+https://www.onlinegdb.com/online_c++_compiler
 
 ### ✨ Principais Funcionalidades
 
