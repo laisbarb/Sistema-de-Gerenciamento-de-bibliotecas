@@ -1,8 +1,8 @@
-# Sistema de Gerenciamento de Biblioteca em C
+# Sistema de Gerenciamento de Biblioteca em C++
 
 ![Linguagem C](https://img.shields.io/badge/Language-C-blue.svg) ![Compilador](https://img.shields.io/badge/Compiler-GCC-orange.svg) ![Licença](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-Um sistema de gerenciamento de biblioteca desenvolvido em C, operado via linha de comando (CLI). Este projeto foi criado para demonstrar a aplicação prática de estruturas de dados e algoritmos fundamentais.
+Um sistema de gerenciamento de biblioteca desenvolvido em C++, operado via linha de comando (CLI). Este projeto foi criado para demonstrar a aplicação prática de estruturas de dados e algoritmos fundamentais.
 
 ## 📝 Sobre o Projeto
 
