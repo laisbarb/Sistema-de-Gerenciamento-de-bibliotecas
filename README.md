@@ -19,7 +19,7 @@ Este é um programa de console que simula as operações básicas de uma bibliot
 
 ## 🧠 Estruturas de Dados e Conceitos Aplicados
 
-O núcleo deste projeto é a demonstração dos seguintes conceitos de Ciência da Computação:
+O núcleo deste projeto é a demonstração dos seguintes conceitos de programação:
 
 * **`struct`**: Utilizada para modelar as entidades do sistema (Usuário, Livro, Pedido, Empréstimo).
 * **Arrays**: Usados para o armazenamento principal dos cadastros de usuários e livros.
@@ -30,5 +30,5 @@ O núcleo deste projeto é a demonstração dos seguintes conceitos de Ciência 
 
 ## 👨‍💻 Autor
 
-Feito por **Lais Barbosa**.
+Feito por **Lala**.
 
