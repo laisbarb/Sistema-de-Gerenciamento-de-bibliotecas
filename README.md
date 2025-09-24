@@ -28,7 +28,7 @@ O núcleo deste projeto é a demonstração dos seguintes conceitos de programa�
 * **Algoritmos de Ordenação (Sorting)**: Implementação do algoritmo Bubble Sort para ordenar o acervo de livros.
 * **Gerenciamento de Memória Dinâmica**: Uso de `malloc()` e `free()` para alocar e liberar memória para os nós da lista encadeada do histórico.
 
-## 👨‍💻 Autor
+## Autora
 
 Feito por **Lala**.
 
